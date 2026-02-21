@@ -1,0 +1,48 @@
+{
+  "api_id": 123456,
+  "api_hash": "YOUR_API_HASH",
+  "admin_bot_token": "123456:AA...",
+  "admin_ids": [
+    111111111
+  ],
+  "mobileproxy_token": "YOUR_MOBILEPROXY_TOKEN",
+  "proxy_ids": [
+    10001
+  ],
+  "max_bots_per_ip": 2,
+  "sessions_dir": "sessions",
+  "session_unpack_dir": "/tmp/telethon_sessions",
+  "bots_db_path": "bots.db",
+  "posts_db_path": "posts.db",
+  "ip_db_path": "ip_data.db",
+  "session_log_path": "session_log.db",
+  "uploaded_zip_ttl_hours": 6,
+  "sms_code_timeout": 120,
+  "max_workers": 5,
+  "worker_sleep": 1.0,
+  "reaction_delay": 1.5,
+  "min_bot_reuse_delay": 120,
+  "job_reserve_ttl_sec": 180,
+  "queue_refill_interval_sec": 10,
+  "interval": 15,
+  "initial_delay": 0,
+  "posts_refresh_interval_sec": 300,
+  "react_cooldown_sec": 0,
+  "message_limit": 10,
+  "hyperbola_k": 1.0,
+  "hyperbola_c": 1.0,
+  "hyperbola_d": 1.0,
+  "target_deviation": 0,
+  "channel_ids": [],
+  "channel_invite_links": {},
+  "reaction_targets": {},
+  "sleep": {
+    "enabled": false,
+    "timezone": "UTC",
+    "start": "00:00",
+    "end": "00:00"
+  },
+  "reaction_threshold": 5,
+  "total_reactions_per_run": 5,
+  "purchase_delay": 1
+}
