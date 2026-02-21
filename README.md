@@ -248,3 +248,10 @@ Probability used: `p = (k / (idx + c)) ** d` where `idx` is 0 for newest post.
 - If private channels cannot be resolved, add `channel_invite_links` for those chat IDs.
 - If sessions get marked `revoked` or `frozen`, they will be removed from the IPC queue and excluded from planning/execution.
 
+License
+This project is licensed under the Apache License, Version 2.0.
+You may use, modify, and distribute this software in compliance with the License.
+
+See the LICENSE file for full license text.
+
+Copyright (c) 2026 Kolobov Aleksei Telegram: @kilax9276
