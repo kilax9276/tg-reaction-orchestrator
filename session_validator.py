@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # session_validator.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Session validation worker. It can be launched as a separate process (legacy path)
 # that scans a folder of .session files and tries to authorize them.

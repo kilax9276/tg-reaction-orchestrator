@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # sleep_window.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Utility for "quiet hours" / sleep mode.
 #

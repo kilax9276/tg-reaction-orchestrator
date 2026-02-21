@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # frozen_checker.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Heuristic "account frozen / write restricted" detection without reading messages.
 #

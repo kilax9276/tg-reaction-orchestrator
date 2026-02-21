@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------
 # Reaction worker pool (reaction_worker_pool.py)
+# Copyright Kolobov Aleksei @kilax9276
 #
 # This is the *executor* side of the system. Workers continuously:
 #   1) reserve_next(): atomically reserve one job row from bots.db/jobs

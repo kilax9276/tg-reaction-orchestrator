@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------
 # session_lock.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Compatibility wrapper around the new IPC session store (session_store.py).
 #

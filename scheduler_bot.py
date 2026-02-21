@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # Scheduler / Planner (scheduler_bot.py)
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Despite the name, this module is an *offline planner*:
 #   - it does NOT connect to Telegram

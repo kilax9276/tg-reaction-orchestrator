@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # proxy_manager.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Mobile proxy orchestration layer.
 #

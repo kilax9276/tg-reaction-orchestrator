@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # session_store.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # IPC session registry and locks built on SQLite (WAL) + aiosqlite.
 #

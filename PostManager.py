@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # PostManager.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Local cache for channel posts and their current reaction counters.
 #

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------
 # code_manager.py
-#
+# Copyright Kolobov Aleksei @kilax9276
 # Async helper for requesting and receiving SMS login codes through the controller bot.
 #
 # The validator/worker puts a request into code_request_queue:

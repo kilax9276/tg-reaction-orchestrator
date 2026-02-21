@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # job_store.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # A tiny durable job queue stored in SQLite (bots.db by default).
 #

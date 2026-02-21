@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # Controller bot (controller_bot.py)
+# Copyright Kolobov Aleksei @kilax9276
 #
 # A Telegram bot (Telethon) intended to be used by operators/admins.
 # It is the "human interface" for:

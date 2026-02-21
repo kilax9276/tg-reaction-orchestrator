@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------
 # BotManager.py
-#
+# Copyright Kolobov Aleksei @kilax9276
 # SQLite-backed registry of Telegram sessions ("bots") and their actions.
 #
 # Tables in bots.db:

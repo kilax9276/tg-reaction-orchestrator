@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # ip_database.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # SQLite storage used by proxy_manager.AsyncProxyManager.
 #

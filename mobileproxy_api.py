@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # mobileproxy_api.py
+# Copyright Kolobov Aleksei @kilax9276
 #
 # Thin wrapper around MobileProxy.Space HTTP API.
 #

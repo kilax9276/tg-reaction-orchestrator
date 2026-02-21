@@ -1,5 +1,6 @@
 # -----------------------------------------------------------------------------
 # Project entrypoint (run.py)
+# Copyright Kolobov Aleksei @kilax9276
 #
 # This script boots the whole system as a multi-process application:
 #   1) Controller process: a Telegram *admin bot* (controller_bot.py) that
